@@ -6,6 +6,9 @@
   "author": "Brett Shwom <brett@wayla.com>",
   "version": "0.0.1",
   "main": "index.js",
+  "dependencies" : {
+    "kaerus-component/uP": "0.3.3",
+  },
   "scripts": [
     "index.js"
   ]

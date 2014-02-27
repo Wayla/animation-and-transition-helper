@@ -1,0 +1,12 @@
+{
+  "name": "animation-and-transition-helper",
+  "repo": "Wayla/animation-and-transition-helper",
+  "description": "Yet another js animate() and transition()",
+  "keywords": [],
+  "author": "Brett Shwom <brett@wayla.com>",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
